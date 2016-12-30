@@ -1,6 +1,6 @@
 %  04/07/16
 
-%% Problem 1a
+%% 
 clc
 figure(1)
 syms f(t) t
@@ -15,7 +15,7 @@ figure(3)
 hold on
 plotyy(x,abs(C),x,angle(C),'stem','stem')
 hold off
-%% %Problem 1b
+%% Second Signal
 clc
 syms t x(t)
 x(t) = heaviside(t+.5).*heaviside(-t+.5);

@@ -1,2 +1,2 @@
 # CTFS
-Computation of a polar form Fourier series representation for  periodic signals
+Computation of the polar form Fourier series representation for periodic signals
